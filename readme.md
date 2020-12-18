@@ -26,4 +26,4 @@
 
 ### 4. 最重要的：  
 不需要关注公众号，也不需要转发朋友圈，只求您大手一挥，`star`、`fork`、`follow` 三连！！！！
-
+敬请持续关注，如果最终能得名次，会在我的知乎专栏[深度学习深度学习](https://www.zhihu.com/column/oukohou-DL)、我的个人博客[璇珠杂俎](https://www.oukohou.wang)上分享比赛心得及技巧～～
